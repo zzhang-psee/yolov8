@@ -1,0 +1,9 @@
+path: /mnt/celeste/projects/machine_learning/datasets/optex/full_sequence/  # dataset root dir
+train: train  # train images (relative to 'path') 128 images
+val: val  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: pedestrian
+
